@@ -2,6 +2,6 @@
 
 ## This is a second page. 
 
-[Click here to go back to page] (README.md)
+[Click here to go back to page](README.md)
 
-[Click here to go to Google] (Google.com) 
+[Click here to go to Google](google.com) 
