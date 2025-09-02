@@ -7,4 +7,4 @@ This is my test repository.
 
 [page 2](page2.md)
 
-![Test Art Work](MonoLisa.webp)
+![Test Art Work](artdirection.jpg)
