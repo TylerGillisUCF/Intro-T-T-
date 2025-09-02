@@ -6,4 +6,4 @@
 
 [Click here to go to Google](google.com) 
 
-![cute picture](Art Direction.jpg)
+![cute picture](ArtDirection.jpg)
